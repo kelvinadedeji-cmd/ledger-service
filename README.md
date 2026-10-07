@@ -1,2 +1,1 @@
-# ledger-service
-A production-oriented ledger service built with Python, PostgreSQL, and Docker.
+A double-entry ledger service with safe concurrent transfers, built in Python and PostgreSQL.
